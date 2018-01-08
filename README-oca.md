@@ -1,5 +1,3 @@
-# java8-studygroup
-
 ## OCA
 
 ### Chapter 1

@@ -52,7 +52,7 @@
 * Be careful about missing breaks
 * Look out for wrong indentation
 
-###### Understand loop statements
+##### Understand loop statements
 * For loops: Variable declaration and scope
 
 ##### Understand how *break* and *continue* can change flow control

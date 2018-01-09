@@ -18,13 +18,13 @@ public class SwitchEnum {
                 System.out.println("Large");
                 break;
                 
-            case Size.MEDIUM:
-                System.out.println("Medium");
-                break;
-
-              case MEDIUM_SIZE:
-                System.out.println("Medium too");
-                break;
+//            case Size.MEDIUM:
+//                System.out.println("Medium");
+//                break;
+//
+//              case MEDIUM_SIZE:
+//                System.out.println("Medium too");
+//                break;
 
             default:
                 System.out.println("Not so large");

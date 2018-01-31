@@ -1,6 +1,6 @@
 ## OCA Chapter 3 Essentials
 
-##### Be able to determine the output of code using *String*
+#### Be able to determine the output of code using *String*
 * Concatenate String with numerical values
 * Immutable: Don't for get to assign return value of String methods
 * Know how many String objects are created (GC!)
@@ -8,7 +8,7 @@
 * == vs. equals()
 * Know exact meaning of index in methods, e.g. substring()
 
-##### Be able to determine the output of code using *StringBuilder*
+#### Be able to determine the output of code using *StringBuilder*
 * Mutable
 * Some methods change the object, some not
 * No implementation of equals()

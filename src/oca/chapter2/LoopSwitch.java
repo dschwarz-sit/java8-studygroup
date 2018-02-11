@@ -12,6 +12,6 @@ public class LoopSwitch {
             }
             
         }
-        System.out.println(i);
+        //System.out.println(i);
     }
 }
